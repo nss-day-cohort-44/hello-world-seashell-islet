@@ -4,10 +4,10 @@ nav {
 
 figcaption {
     border: 3px solid red;
-    color: darkblue;
+    color: blue;
 }
 
 ul {
     border: red solid 3px;
-    color: darkblue;
+    color: blue;
 }
