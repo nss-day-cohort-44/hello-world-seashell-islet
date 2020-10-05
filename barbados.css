@@ -14,7 +14,7 @@ textarea {
     line-height: 1.5;
 }
 html{
-    background-color: chartreuse;
+    background-color: beige;
 }
 
 h1 {
@@ -22,10 +22,11 @@ font-size: 25px;
   font-family: "Patua One", serif;
   letter-spacing: 2px;
   text-align: center;
+  color: rgb(231, 231, 21);
 }
 
 nav{
-    border: solid black 5px;
+    border:solid blue 3px;
     justify-content: space-evenly;
     letter-spacing: 2px;
     display: flex;
@@ -41,7 +42,7 @@ section{
     font-size: larger;
 }
 ul{
-    border: solid black 5px;
+    border: solid blue 3px;
 }
 
 
