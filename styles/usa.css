@@ -1,0 +1,13 @@
+nav {
+    border: red solid 3px;
+}
+
+figcaption {
+    border: 3px solid red;
+    color: blue;
+}
+
+ul {
+    border: red solid 3px;
+    color: blue;
+}
