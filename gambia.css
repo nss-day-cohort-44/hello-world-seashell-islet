@@ -19,38 +19,18 @@ html {
 
 nav {
  border: solid blue 3px;
- display: flex;
- justify-content: space-around;
-}
-figure {
-    display: flex;
-    justify-content: center;
+
 }
 
 figcaption {
-    display: flex; 
-    justify-content: center;
     border: solid green 4px;
 }
 
 
-section {
-    display: flex;
-    justify-content: space-evenly;
-}
 
 ul {
-    display: flex;
-    flex-direction: column;
-    flex-basis: 25%;
     border: red solid 3px;
-    padding-left: 8%;
-
 }
-
-footer {
-    display: flex;
-    justify-content: center;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: "Patua One", serif;
