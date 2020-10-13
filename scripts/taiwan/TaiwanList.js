@@ -1,7 +1,7 @@
-import { List } from "./List.js"
-import { getCelebrities } from "./taiwan/celebrities/CelebDataProvider.js"
-import { getCities } from "./taiwan/cities/CityDataProvider.js"
-import { getLandmarks } from "./taiwan/landmarks/LandmarkDataProvider.js"
+import { List } from "../List.js"
+import { getCelebrities } from "./celebrities/CelebDataProvider.js"
+import { getCities } from "./cities/CityDataProvider.js"
+import { getLandmarks } from "./landmarks/LandmarkDataProvider.js"
 
 export const TaiwanList = () => {
 
