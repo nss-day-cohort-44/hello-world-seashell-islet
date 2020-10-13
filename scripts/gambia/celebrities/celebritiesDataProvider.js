@@ -4,8 +4,9 @@ const celebrities = [
     { name: "Ludeh Camara" },
     { name: "Patrick Mendy" },
     { name: "Bakary Gassama" }
+    
 ]
 
-export useCelebrities = () => {
+export const useCelebrities = () => {
     return celebrities.slice()
 };
