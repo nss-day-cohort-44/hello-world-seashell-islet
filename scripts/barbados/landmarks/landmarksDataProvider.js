@@ -3,8 +3,8 @@ const landmarks = [
     { name:"Harrison's cave"},
     { name: "St.Nicholas Abbey"},
     { name: "Carlisle Bay"},
-    { name: "Carlisle Bay"},
-    { name: "Needhams Point"}
+    { name: "Andromeda Botanic Gardens"},
+    { name: "Barbados Wildlife Reserve"}
     
 ]
 export const useLandmarks = () => {

@@ -1,7 +1,7 @@
 const celebrityCollection = [
     
     { name: "Grandmaster Flash"},
-    { name: "MObadele Thompson"},
+    { name: "Mobadele Thompson"},
     { name: "Doug E Fresh"},
     { name: "Shontella"},
     { name: "Rihanna"}
