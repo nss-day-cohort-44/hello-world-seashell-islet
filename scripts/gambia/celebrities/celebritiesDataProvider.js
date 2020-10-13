@@ -1,13 +1,9 @@
 const celebrities = [ 
-    {
-        title: "Celebrities I'd like to meet",
-        celebrities1: "J Hus",
-        celebrities2: "Alhaji Jeng",
-        celebrities3: "Ludeh Camara",
-        celebrities4: "Patrick Mendy",
-        celebrities5: "Bakary Gassama"
-    },
-
+    { name: "J Hus" },
+    { name: "Alhaji Jeng" },
+    { name: "Ludeh Camara" },
+    { name: "Patrick Mendy" },
+    { name: "Bakary Gassama" }
 ]
 
 export useCelebrities = () => {
