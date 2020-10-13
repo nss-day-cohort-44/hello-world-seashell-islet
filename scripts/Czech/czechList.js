@@ -21,7 +21,7 @@ export const czechList = () => {
     const landmarksHTML = htmlMaker(landmarks, "")
 
     const cityList = document.querySelector(".city")
-    const celebrityList = document.querySelector(".citizens")
+    const celebrityList = document.querySelector(".citizen")
     const landmarkList = document.querySelector(".landmark")
 
     cityList.innerHTML += citiesHTML
