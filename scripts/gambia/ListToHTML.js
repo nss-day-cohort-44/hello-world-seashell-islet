@@ -1,5 +1,5 @@
 
-import {  List  } from 'scripts/List.js';
+import {  List  } from '../List.js';
 import {  useCities  } from './cities/citiesDataProvider.js';
 import {  useLandmarks  } from './landmarks/landmarksDataProvider.js';
 import {  useCelebrities  } from './celebrities/celebritiesDataProvider.js';
