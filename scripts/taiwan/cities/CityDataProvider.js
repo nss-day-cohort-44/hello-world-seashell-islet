@@ -7,5 +7,6 @@ const cities = [
 ]
 
 export const getCities = () => {
-    return cities
+
+    return cities.slice()
 }

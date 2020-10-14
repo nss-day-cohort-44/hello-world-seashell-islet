@@ -7,5 +7,7 @@ const landmarks = [
 ]
 
 export const getLandmarks = () => {
-    return landmarks
+
+    return landmarks.slice()
+
 }
