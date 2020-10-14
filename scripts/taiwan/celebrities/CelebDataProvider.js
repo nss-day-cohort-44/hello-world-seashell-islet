@@ -8,6 +8,5 @@ const celebrities = [
 ]
 
 export const getCelebrities = () => {
-
     return celebrities.slice()
 }
