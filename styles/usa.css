@@ -11,3 +11,8 @@ ul {
     border: red solid 3px;
     color: blue;
 }
+
+h3 {
+    color: blue;
+    font-size:20px;
+}
