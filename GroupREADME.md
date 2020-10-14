@@ -23,4 +23,11 @@ Select "Clone or download from appropriate GitHub repo"
 
 Simply navigate the site using the links below the flag on each page.  Each page should display a country flag, a set of links to other pages, a geographical map of the country for the page, 5 notable cities, landmarks, and people from that country, and a copyright at the bottom.
 
+### Brought to you by:
+
+Dillon Draper [Github](https://github.com/DillonbDraper) 
+Heath Lester [Github](https://github.com/MatthewM1986)
+Matthew Machurek [Github](https://github.com/Heath-Lester)
+Trent Sisson [Github](https://github.com/TrentSisson)
+
 
