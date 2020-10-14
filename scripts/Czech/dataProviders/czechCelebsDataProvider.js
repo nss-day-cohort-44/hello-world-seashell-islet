@@ -14,7 +14,7 @@ const celebsArray = [
     },
     {
         name: "Franz Kafka"
-    },
+    }
 ]
 
 export const useCelebs = () => {

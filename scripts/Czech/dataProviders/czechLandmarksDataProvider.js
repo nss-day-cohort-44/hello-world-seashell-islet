@@ -14,9 +14,9 @@ const landmarksArray = [
     },
     {
         name: "Bohemian Paradise Park"
-    },
+    }
 ]
 
-export const useCities = () => {
-    return citiesArray.slice()
+export const useLandmarks = () => {
+    return landmarksArray.slice()
 }

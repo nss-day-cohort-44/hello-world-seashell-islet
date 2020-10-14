@@ -14,7 +14,7 @@ const citiesArray = [
     },
     {
         name: "Liberec"
-    },
+    }
 ]
 
 export const useCities = () => {
