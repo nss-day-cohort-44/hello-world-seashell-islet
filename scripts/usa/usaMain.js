@@ -1,3 +1,3 @@
-import { usaList } from "./scripts/usaList.js";
+import { USList } from "./USList.js";
 
-usaList()
+USList()
